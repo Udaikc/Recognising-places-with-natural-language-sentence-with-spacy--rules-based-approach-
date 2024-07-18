@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16a3fad1-f497-4220-ac12-212f1356f3d5)Hey Folks !! 
+Hey Folks !! 
 
 This project mainly aims for recognise Indian places with Natural language sentence (Spacy Library) 
 
