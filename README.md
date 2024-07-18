@@ -17,7 +17,9 @@ Before you run a repository make sure to run the follwing commands in .ipynb fil
 If you want just recognising places with a natural language sentence using text input use "spacy_recognise_places.py" copy the code from here
 
 Before adding image to your project , please follow the follwing instructions
-[image_dropping](https://github.com/user-attachments/assets/01d725f0-a16f-401b-a567-73f2267251a2)
+
+![image_dropping](https://github.com/user-attachments/assets/7da9b5b9-a238-4e27-aa6f-02b94800b69b)
+
 make sure to keep your image in the same directory as the code, do make nevessary changes to code
 
 If you want just recognise texts with an image use "recognising_text_with_Easy_OCR.py" copy the code from here.
